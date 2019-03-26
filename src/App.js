@@ -18,9 +18,11 @@ class App extends Component {
             rel="noopener noreferrer"
           >
 Russian language Русския язык !!! Some new qouic test  ----          Learn DENIS ---> and --->  Learn React
-          </a>
+          </a><br> <h2>----- Enather heade  ----- </h2>
         </header>
-      </div>
+<p>add some another text hete </p>     
+
+ </div>
     );
   }
 }
