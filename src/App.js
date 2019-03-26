@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-Russian language Русския язык !!! Some new qouic test  ----          Learn DENIS ---> and --->  Learn React
+Russian language Русския язык !!! Some new qouic test  ----         Learn React
           </a><br> <h2>----- Enather heade  ----- </h2>
         </header>
 <p>add some another text hete </p>     
