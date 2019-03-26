@@ -20,9 +20,6 @@ class App extends Component {
 Russian language Русския язык !!! Some new qouic test  ----          Learn DENIS --- and ---  Learn React
           </a>
 
- <h2>Enather heade</h2>
-        </header>
-<p>add some another text hete </p>     
 
  </div>
     );
