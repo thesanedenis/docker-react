@@ -15,9 +15,7 @@ class App extends Component {
             className="App-link"
             href="https://reactjs.org"
             target="_blank"
-            rel="noopener noreferrer"
-          > some trouble  </a><br> <h2>----- Enather heade  ----- </h2>
-        </header>
+            rel="noopener noreferrer" > some trouble  </a> <h2>Enather heade</h2> </header>
 <p>add some another text hete </p>     
 
  </div>
